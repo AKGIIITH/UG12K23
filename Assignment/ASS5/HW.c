@@ -1,0 +1,1 @@
+// Write a program which takes a file name as command line argument and prints the number of chars, words, lines and paragraphs in the file
